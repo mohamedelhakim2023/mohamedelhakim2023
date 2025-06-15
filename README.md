@@ -140,7 +140,7 @@
 
 <div align="center">
 
-```javascript
+```js
 const mohamedElhakim = {
   currentFocus: "Odoo Development & UI/UX Design",
   learningGoals: [
@@ -170,6 +170,35 @@ const mohamedElhakim = {
 ```
 
 </div>
+
+---
+
+## 💡 What I'm Working On
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### 🔥 Current Projects
+
+- 🛒 **E-commerce Odoo Module**
+- 📊 **React Dashboard**
+- 🎨 **UI/UX Portfolio**
+- 🐍 **Python Automation Scripts**
+
+</td>
+<td align="center" width="50%">
+
+### 📚 Learning Goals
+
+- 🚀 **Advanced Odoo Customization**
+- ⚛️ **React Hooks & Patterns**
+- 🦉 **OWL Framework**
+- 🏗️ **Microservices Architecture**
+
+</td>
+</tr>
+</table>
 
 ---
 
